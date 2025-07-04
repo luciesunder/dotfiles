@@ -26,8 +26,8 @@ wallpaperplugin=org.kde.image
 positions={"1536x864":[],"1920x1080":[]}
 
 [Containments][41]
-ItemGeometries-1920x1080=Applet-45:736,320,448,448,0;
-ItemGeometriesHorizontal=Applet-45:736,320,448,448,0;
+ItemGeometries-1920x1080=
+ItemGeometriesHorizontal=
 activityId=a6dd23ea-4212-4488-97bb-c8b10fda2af0
 formfactor=0
 immutability=1
@@ -35,15 +35,6 @@ lastScreen=1
 location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
-
-[Containments][41][Applets][45]
-immutability=1
-plugin=org.kde.plasma.notes
-
-[Containments][41][Applets][45][Configuration][General]
-cursorPosition=52
-fontSize=10
-noteId=693a8bcb-f1e6-40f8-bacc-c8f895b39a
 
 [Containments][41][General]
 positions={"1920x1080":[]}
@@ -113,7 +104,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][50][Applets][53][Configuration][General]
-launchers=applications:systemsettings.desktop,preferred://filemanager,preferred://browser,applications:Alacritty.desktop
+launchers=applications:systemsettings.desktop,preferred://filemanager,preferred://browser,applications:com.mitchellh.ghostty.desktop
 
 [Containments][50][Applets][54]
 immutability=1
