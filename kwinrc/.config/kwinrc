@@ -1,10 +1,44 @@
+[Activities][LastVirtualDesktop]
+a6dd23ea-4212-4488-97bb-c8b10fda2af0=503946b1-d288-44f2-ba10-f4f65d3f4934
+
 [Desktops]
 Id_1=503946b1-d288-44f2-ba10-f4f65d3f4934
-Number=1
+Id_2=1b7874b7-3d7e-49c6-b3b9-9dc6e3fad6ee
+Id_3=967439f5-eee3-4b0c-a740-4c6f30f273ec
+Id_4=434aa7e8-287e-40cc-971f-24ea77762f9b
+Number=4
 Rows=1
+
+[EdgeBarrier]
+CornerBarrier=false
+EdgeBarrier=0
+
+[Effect-overview]
+BorderActivate=9
+
+[Script-desktopchangeosd]
+TextOnly=true
 
 [Tiling]
 padding=4
+
+[Tiling][1b7874b7-3d7e-49c6-b3b9-9dc6e3fad6ee][774375f4-9232-4858-abd3-52d97d34da38]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][1b7874b7-3d7e-49c6-b3b9-9dc6e3fad6ee][c89eb8ad-a17e-4aa3-9425-141fcacecdc7]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][1b7874b7-3d7e-49c6-b3b9-9dc6e3fad6ee][cad67e7c-1a1a-4c64-8f91-f7c17706bd7c]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][434aa7e8-287e-40cc-971f-24ea77762f9b][774375f4-9232-4858-abd3-52d97d34da38]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][434aa7e8-287e-40cc-971f-24ea77762f9b][c89eb8ad-a17e-4aa3-9425-141fcacecdc7]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][434aa7e8-287e-40cc-971f-24ea77762f9b][cad67e7c-1a1a-4c64-8f91-f7c17706bd7c]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][503946b1-d288-44f2-ba10-f4f65d3f4934][774375f4-9232-4858-abd3-52d97d34da38]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
@@ -14,6 +48,18 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 
 [Tiling][503946b1-d288-44f2-ba10-f4f65d3f4934][cad67e7c-1a1a-4c64-8f91-f7c17706bd7c]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][967439f5-eee3-4b0c-a740-4c6f30f273ec][774375f4-9232-4858-abd3-52d97d34da38]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][967439f5-eee3-4b0c-a740-4c6f30f273ec][c89eb8ad-a17e-4aa3-9425-141fcacecdc7]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][967439f5-eee3-4b0c-a740-4c6f30f273ec][cad67e7c-1a1a-4c64-8f91-f7c17706bd7c]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Windows]
+RollOverDesktops=true
 
 [Xwayland]
 Scale=1.25

@@ -1,7 +1,7 @@
 [PlasmaTransientsConfig]
-PreloadWeight[$d]
-popupHeight[$d]
-popupWidth[$d]
+PreloadWeight=0
+popupHeight=432
+popupWidth=432
 
 [PlasmaViews][Panel 105]
 floating=1
@@ -15,16 +15,40 @@ floating=1
 [PlasmaViews][Panel 130][Defaults]
 thickness=30
 
+[PlasmaViews][Panel 153]
+floating=1
+
+[PlasmaViews][Panel 153][Defaults]
+thickness=30
+
+[PlasmaViews][Panel 177]
+floating=1
+
+[PlasmaViews][Panel 177][Defaults]
+thickness=30
+
 [PlasmaViews][Panel 2]
 floating=1
 
 [PlasmaViews][Panel 2][Defaults]
 thickness=44
 
+[PlasmaViews][Panel 205]
+floating=1
+
+[PlasmaViews][Panel 205][Defaults]
+thickness=30
+
 [PlasmaViews][Panel 23]
 floating=1
 
 [PlasmaViews][Panel 23][Defaults]
+thickness=30
+
+[PlasmaViews][Panel 230]
+floating=1
+
+[PlasmaViews][Panel 230][Defaults]
 thickness=30
 
 [PlasmaViews][Panel 46]
