@@ -3,6 +3,22 @@ PreloadWeight=0
 popupHeight=432
 popupWidth=432
 
+[PlasmaViews][Panel 105]
+floating=1
+floating=1
+
+[PlasmaViews][Panel 105][Defaults]
+thickness=30
+thickness=30
+
+[PlasmaViews][Panel 130]
+floating=1
+floating=1
+
+[PlasmaViews][Panel 130][Defaults]
+thickness=30
+thickness=30
+
 [PlasmaViews][Panel 2]
 floating=1
 
