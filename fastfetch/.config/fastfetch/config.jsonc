@@ -34,6 +34,7 @@
             "key": "└ └",
             "keyColor": "green"
         },
+        "break",
         {
             "type": "os",
             "key": " OS",
@@ -59,6 +60,7 @@
             "key": "└ └",
             "keyColor": "yellow"
         },
+        "break",
         {
             "type": "de",
             "key": " DE",
@@ -84,6 +86,7 @@
             "key": "└ └",
             "keyColor": "blue"
         },
+        "break",
         {
             "type": "command",
             "key": "  OS Age ",
